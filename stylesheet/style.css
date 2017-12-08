@@ -1,0 +1,51 @@
+#body{
+
+  background-color:#008080;
+
+}
+
+
+.window-button{
+
+  border:3px outset #c0c0c0;
+  background-color:#c0c0c0;
+  color:black;
+
+  text-decoration:none;
+}
+.window{
+
+  border:3px outset #c0c0c0;
+  background-color:#c0c0c0;
+
+}
+#window-header{
+
+  padding-top:1rem;
+  background-color:blue;
+
+}
+
+#window-header p {
+  
+  color:white;
+
+}
+
+#window-header a{
+  float: right;
+  padding-top: -2rem;
+  
+}
+.window-body{
+  background-color: white;
+  padding:1rem;
+  margin:1rem;
+  border:2px inset #c0c0c0;
+  
+}
+
+#button-menu{
+  padding-top: 2rem;
+  
+}
