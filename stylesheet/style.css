@@ -14,7 +14,8 @@
   text-decoration:none;
 }
 .window{
-
+  margin-top:2rem;
+  margin-right:2rem;
   border:3px outset #c0c0c0;
   background-color:#c0c0c0;
 
@@ -27,7 +28,7 @@
 }
 
 #window-header p {
-  
+
   color:white;
 
 }
@@ -35,17 +36,35 @@
 #window-header a{
   float: right;
   padding-top: -2rem;
-  
+
 }
 .window-body{
   background-color: white;
   padding:1rem;
   margin:1rem;
   border:2px inset #c0c0c0;
-  
+
 }
 
-#button-menu{
+#button-menu {
   padding-top: 2rem;
+
+}
+
+#button-menu a{
+  text-align: center;
+  vertical-align: bottom;
+ padding:0rem 2rem;
+
+}
+
+
+#button-menu td{
+  
+  padding-bottom:2.5rem;
+}
+
+#button-menu td a{
+  padding:1rem;
   
 }
